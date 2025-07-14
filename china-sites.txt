@@ -1,76 +1,77 @@
-DOMAIN-SUFFIX,12306.cn
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,360.cn
-DOMAIN-SUFFIX,acfun.cn
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autohome.com.cn
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidubce.com
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bing.com.cn
-DOMAIN-SUFFIX,bitauto.com
-DOMAIN-SUFFIX,buaa.edu.cn
-DOMAIN-SUFFIX,ccb.com
-DOMAIN-SUFFIX,cctv.com
-DOMAIN-SUFFIX,che168.com
-DOMAIN-SUFFIX,cheshi.com
-DOMAIN-SUFFIX,cmbchina.com
-DOMAIN-SUFFIX,ctrip.com
-DOMAIN-SUFFIX,dangdang.com
-DOMAIN-SUFFIX,dianping.com
-DOMAIN-SUFFIX,dongchedi.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,edu.cn
-DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,feishu.cn
-DOMAIN-SUFFIX,huawei.com
-DOMAIN-SUFFIX,icbc.com.cn
-DOMAIN-SUFFIX,ifeng.com
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,kaoyan.com
-DOMAIN-SUFFIX,ksyun.com
-DOMAIN-SUFFIX,kuaidi100.com
-DOMAIN-SUFFIX,lark.cn
-DOMAIN-SUFFIX,meituan.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,momo.com
-DOMAIN-SUFFIX,mooc.cn
-DOMAIN-SUFFIX,oneplus.com
-DOMAIN-SUFFIX,oppo.com
-DOMAIN-SUFFIX,pcauto.com.cn
-DOMAIN-SUFFIX,people.com.cn
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,quark.cn
-DOMAIN-SUFFIX,sina.com.cn
-DOMAIN-SUFFIX,sm.cn
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,suning.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,tencentcloud.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tsinghua.edu.cn
-DOMAIN-SUFFIX,tudou.com
-DOMAIN-SUFFIX,ucloud.cn
-DOMAIN-SUFFIX,unionpay.com
-DOMAIN-SUFFIX,v.qq.com
-DOMAIN-SUFFIX,vip.com
-DOMAIN-SUFFIX,vivo.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weiyun.com
-DOMAIN-SUFFIX,wps.cn
-DOMAIN-SUFFIX,xcar.com.cn
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,xinhuanet.com
-DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhixue.com
-DOMAIN-SUFFIX,zte.com.cn
+payload:
+  - '+.12306.cn'
+  - '+.163.com'
+  - '+.360.cn'
+  - '+.acfun.cn'
+  - '+.alipay.com'
+  - '+.aliyun.com'
+  - '+.amap.com'
+  - '+.autohome.com.cn'
+  - '+.autonavi.com'
+  - '+.baidu.com'
+  - '+.baidubce.com'
+  - '+.bilibili.com'
+  - '+.bing.com.cn'
+  - '+.bitauto.com'
+  - '+.buaa.edu.cn'
+  - '+.ccb.com'
+  - '+.cctv.com'
+  - '+.che168.com'
+  - '+.cheshi.com'
+  - '+.cmbchina.com'
+  - '+.ctrip.com'
+  - '+.dangdang.com'
+  - '+.dianping.com'
+  - '+.dongchedi.com'
+  - '+.douyin.com'
+  - '+.edu.cn'
+  - '+.ele.me'
+  - '+.feishu.cn'
+  - '+.huawei.com'
+  - '+.icbc.com.cn'
+  - '+.ifeng.com'
+  - '+.iqiyi.com'
+  - '+.jd.com'
+  - '+.kaoyan.com'
+  - '+.ksyun.com'
+  - '+.kuaidi100.com'
+  - '+.lark.cn'
+  - '+.meituan.com'
+  - '+.mi.com'
+  - '+.momo.com'
+  - '+.mooc.cn'
+  - '+.oneplus.com'
+  - '+.oppo.com'
+  - '+.pcauto.com.cn'
+  - '+.people.com.cn'
+  - '+.pinduoduo.com'
+  - '+.qq.com'
+  - '+.quark.cn'
+  - '+.sina.com.cn'
+  - '+.sm.cn'
+  - '+.sogou.com'
+  - '+.sohu.com'
+  - '+.suning.com'
+  - '+.taobao.com'
+  - '+.tencentcloud.com'
+  - '+.tenpay.com'
+  - '+.tmall.com'
+  - '+.tsinghua.edu.cn'
+  - '+.tudou.com'
+  - '+.ucloud.cn'
+  - '+.unionpay.com'
+  - '+.v.qq.com'
+  - '+.vip.com'
+  - '+.vivo.com'
+  - '+.wechat.com'
+  - '+.weibo.com'
+  - '+.weiyun.com'
+  - '+.wps.cn'
+  - '+.xcar.com.cn'
+  - '+.xiaohongshu.com'
+  - '+.xiaomi.com'
+  - '+.xinhuanet.com'
+  - '+.youku.com'
+  - '+.zhihu.com'
+  - '+.zhixue.com'
+  - '+.zte.com.cn'
